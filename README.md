@@ -8,7 +8,4 @@ The following code is the workflow used to classify yellow-billed babbler calls 
 5. Running stats test
 6. Visualizing results
 
-![dfa_plot_multi](https://github.com/user-attachments/assets/dead5a11-d6fe-4a45-ab46-bcd75bb499fc)
-
-
-![dfa_plot_mono](https://github.com/user-attachments/assets/e8d8a0be-8b62-4c3c-a193-89c20d72433e)
+<img src="https://github.com/user-attachments/assets/dead5a11-d6fe-4a45-ab46-bcd75bb499fc" width="100" height="100">
